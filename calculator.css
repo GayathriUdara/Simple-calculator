@@ -1,0 +1,19 @@
+#display{
+    height: 25px;
+    width: 150px;
+    font-family: courier;
+    }
+    input{
+        margin: 0px;
+        border: solid 1px rgb(19, 1, 1);
+        background-color: #ecf5f5;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .container{
+        background-color: rgb(238, 53, 161) ;
+    }
+    body{
+        font-family: courier;
+    }
